@@ -1,1 +1,8 @@
 1、git  status--查看当前分支状态；
+2、git config --global user.name "用户名"   设置用户名
+3、git config --global user.email "用户邮箱"  设置用户邮箱
+4、git init  本次初始化
+5、git add  文件   提交文件到缓存区
+6、git commit -m "描述"  提交文件到本次仓库
+7、git push   同步本地仓库到远程仓库
+8、git rm  文件   删除缓存区文件
